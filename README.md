@@ -83,3 +83,102 @@ VMware Workstation
 * Service disablement to reduce attack surface
 * Host-based firewall configuration
 * System privilege restriction
+
+---
+
+# Project Index
+
+The projects below contain full documentation including configurations, screenshots, and explanations of the security controls implemented.
+
+---
+
+## 🔍 [Home Network Security & Monitoring Lab](./Home%20Network%20Security%20%26%20Monitoring%20Lab/network-security.md)
+
+**Objective:**
+Secure a home network gateway and monitor connected devices to detect unauthorized activity.
+
+**Security Controls Implemented**
+
+* Static DHCP reservations for asset visibility
+* DNS filtering to block unauthorized or malicious domains
+* Gateway log monitoring for network activity analysis
+* Device monitoring and identification
+
+**Key Concepts Demonstrated**
+
+Network monitoring
+Asset visibility
+Gateway security configuration
+
+---
+
+## 🛡️ [Virtual Machine (VM) Hardening Lab](./Virtual%20Machine%20%28VM%29%20Hardening%20Lab/system-hardening.md)
+
+**Objective:**
+Harden Windows and Linux operating systems to reduce attack surfaces and enforce access control policies.
+
+**Security Controls Implemented**
+
+* Principle of Least Privilege (PoLP)
+* Service disablement
+* Host-based firewall configuration
+* User permission management
+
+**Key Concepts Demonstrated**
+
+System hardening
+Privilege management
+Operating system security
+
+---
+
+## 🔐 [Network Access Control & Device Policy Lab](./Network%20Access%20Control%20%28NAC%29%20Project/access-control.md)
+
+**Objective:**
+Implement device-level access control policies to manage network connectivity and enforce usage restrictions.
+
+**Security Controls Implemented**
+
+* Access Control Lists (ACLs)
+* MAC address filtering
+* Time-based network access restrictions
+* Device policy enforcement
+
+**Key Concepts Demonstrated**
+
+Network access control
+Device authentication
+Policy enforcement
+
+---
+
+# Certifications
+
+ISC2 Certified in Cybersecurity (CC)
+ISC2
+
+Cisco Networking Basics
+Cisco Networking Academy
+
+Computer Systems Servicing (CSS) NCII
+TESDA — Government Regulated Technical Qualification
+
+---
+
+# Career Focus
+
+Areas of specialization and career interest:
+
+Security Operations Center (SOC)
+Identity & Access Management (IAM)
+Network Security Monitoring
+Security Log Analysis
+Incident Detection and Investigation
+
+---
+
+# About This Portfolio
+
+This repository is maintained as a **continuous cybersecurity learning portfolio**. New labs and security projects will be added as additional skills and certifications are developed.
+
+The purpose of this portfolio is to demonstrate **practical cybersecurity capabilities, defensive security techniques, and continuous professional development** within the cybersecurity field.
