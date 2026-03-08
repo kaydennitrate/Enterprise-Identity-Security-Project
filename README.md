@@ -1,9 +1,22 @@
-Implementation of security baselines for a SOHO network environment using a Huawei EchoLife ONT. The primary objective was to establish a verifiable asset inventory and monitor for unauthorized network activity.
-Technical Specifications
-Hardware: Huawei EchoLife ONT Terminal
-Protocols: DHCP, DNS, IPv4, ICMP
-Monitoring: Gateway Syslog Analysis, DNS-level Filtering
-Security Controls Implemented
-Asset Identification: Configured Static DHCP Reservations to ensure persistent identity for all authorized network devices.
-Access Control: Deployed MAC Address Whitelisting to enforce a Zero-Trust approach for physical layer connections.
-Threat Mitigation: Implemented upstream DNS filtering to prevent resolution of known malicious domains and C2 infrastructure.
+Professional Overview
+This repository serves as a technical portfolio documenting hands-on experience in Network Security, System Hardening, and Access Control. The projects contained herein demonstrate a practical understanding of securing enterprise and SOHO environments through the implementation of the Principle of Least Privilege (PoLP) and Zero-Trust network architectures.
+Technical Skills Demonstrated
+Identity Management: User Provisioning, Role-Based Access Control (RBAC), MAC Filtering.
+Network Security: DHCP Reservations, DNS-level Filtering, ACL Configuration.
+Security Operations: Log Analysis, Syslog Monitoring, Attack Surface Reduction.
+Virtualization: Hardening Windows/Linux environments via Type-2 Hypervisors.
+Project Repository Index
+01. Home Network Security & Monitoring Lab
+Objective: Hardening a gateway infrastructure to establish a verifiable asset inventory and monitor for unauthorized network activity.
+Key Controls: Static DHCP, DNS Filtering, Gateway Log Analysis.
+02. Virtual Machine (VM) Hardening Lab
+Objective: Securing Windows and Linux OS environments to reduce organizational attack surfaces and enforce user access policies.
+Key Controls: Principle of Least Privilege (PoLP), Service Disablement, Host-based Firewalls.
+03. Network Access Control (NAC) Project
+Objective: Design and execution of granular access control policies to manage the user lifecycle and ensure network compliance.
+Key Controls: Access Control Lists (ACLs), Time-based Access, MAC Address Filtering.
+
+Certifications & Credentials
+ISC2 Certified in Cybersecurity (CC) | Verified Credential
+Cisco Networking Basics | Cisco Networking Academy
+TESDA Computer Systems Servicing (CSS) NCII | Government-Regulated Technical Qualification
