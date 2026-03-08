@@ -1,33 +1,85 @@
-# Cybersecurity and Identity & Access Management (IAM) Portfolio
+# Cybersecurity & Identity and Access Management (IAM) Portfolio
 
-## Professional Overview
-This repository serves as a technical portfolio documenting hands-on experience in Network Security, System Hardening, and Access Control. The projects demonstrate a practical understanding of securing enterprise and SOHO environments through the implementation of the Principle of Least Privilege (PoLP) and Zero-Trust network architectures.
+**Entry-Level Cybersecurity Analyst | SOC & IAM Focus**
 
-## Technical Skills Demonstrated
-* **Identity Management:** User Provisioning, Role-Based Access Control (RBAC), MAC Filtering.
-* **Network Security:** DHCP Reservations, DNS-level Filtering, ACL Configuration.
-* **Security Operations:** Log Analysis, Syslog Monitoring, Attack Surface Reduction.
-* **Virtualization:** Hardening Windows/Linux environments via Type-2 Hypervisors.
+This repository serves as a technical portfolio demonstrating hands-on cybersecurity practice through structured home lab projects. The focus of these labs is on **network security monitoring, system hardening, and identity & access control** using defensive security techniques and real-world security principles.
+
+The projects simulate responsibilities commonly performed by **Security Operations Center (SOC) Analysts** and **Identity & Access Management (IAM) Analysts**, including monitoring network activity, enforcing access control policies, and investigating potential security events.
 
 ---
 
-## Project Index
+# Professional Overview
 
-### [Home Network Security & Monitoring Lab](./Home%20Network%20Security%20%26%20Monitoring%20Lab/network-security.md)
-**Objective:** Hardening a gateway infrastructure to establish a verifiable asset inventory and monitor for unauthorized network activity.
-* **Key Controls:** Static DHCP, DNS Filtering, Gateway Log Analysis.
+This portfolio documents practical implementation of core cybersecurity concepts including:
 
-### [Virtual Machine (VM) Hardening Lab](./Virtual%20Machine%20(VM)%20Hardening%20Lab/system-hardening.md)
-**Objective:** Securing Windows and Linux OS environments to reduce organizational attack surfaces and enforce user access policies.
-* **Key Controls:** Principle of Least Privilege (PoLP), Service Disablement, Host-based Firewalls.
+* Principle of Least Privilege (PoLP)
+* Network Access Control
+* Device monitoring and asset visibility
+* System hardening and attack surface reduction
+* Security event monitoring and log analysis
+* Basic Zero-Trust security concepts
 
-### [Network Access Control (NAC) Project](./Network%20Access%20Control%20(NAC)%20Project/access-control.md)
-**Objective:** Design and execution of granular access control policies to manage the user lifecycle and ensure network compliance.
-* **Key Controls:** Access Control Lists (ACLs), Time-based Access, MAC Address Filtering.
+The goal of this repository is to demonstrate **practical cybersecurity skills through documented lab environments** rather than theoretical knowledge alone.
 
 ---
 
-## Certifications
-* **ISC2 Certified in Cybersecurity (CC)** | Verified Credential
-* **Cisco Networking Basics** | Cisco Networking Academy
-* **TESDA Computer Systems Servicing (CSS) NCII** | Government-Regulated Qualification
+# Tools & Technologies
+
+### Operating Systems
+
+Windows 10 / Windows 11
+Linux (Ubuntu / Kali)
+
+### Networking
+
+TCP/IP
+DNS
+DHCP
+NAT
+Router Administration
+
+### Security Tools
+
+Wireshark
+Syslog Monitoring
+Router Firewall Controls
+Network Log Analysis
+
+### Virtualization
+
+VirtualBox
+VMware Workstation
+
+---
+
+# Technical Skills Demonstrated
+
+### Identity & Access Management
+
+* User provisioning and account lifecycle management
+* Role-Based Access Control (RBAC)
+* MAC address filtering
+* Access policy enforcement
+* Time-based network access restrictions
+
+### Network Security
+
+* DHCP reservations and device tracking
+* DNS filtering for malicious or unauthorized domains
+* Access Control List (ACL) configuration
+* Router-based security controls
+* Device monitoring and identification
+
+### Security Operations
+
+* Log analysis and event monitoring
+* Syslog review
+* Detection of unauthorized network devices
+* Basic incident investigation methodology
+
+### Systems Hardening
+
+* Windows and Linux security configuration
+* Service disablement to reduce attack surface
+* Host-based firewall configuration
+* System privilege restriction
