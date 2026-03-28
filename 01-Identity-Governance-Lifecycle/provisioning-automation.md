@@ -17,8 +17,8 @@ To establish a standardized identity baseline for a corporate department using a
   Monitored the Bulk operation results monitoring tool to ensure all 10 objects were provisioned without parity errors or domain conflicts.
 
 ## 1.3 Evidence
-- System Status:
-[![](Lab 1 - Enterprise Identity Lifecycle (Bulk Onboarding).png)](Lab 1 - Enterprise Identity Lifecycle (Bulk Onboarding).png)
+- System Status (Click image to view file):
+[![Bulk Success](Lab 1 - Enterprise Identity Lifecycle (Bulk Onboarding).png)](Lab 1 - Enterprise Identity Lifecycle (Bulk Onboarding).png)
 
 - Outcome:
 100% success rate; 10 managed identities established in the cloud directory.
