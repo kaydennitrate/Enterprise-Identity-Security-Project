@@ -5,9 +5,9 @@
 Graduate (2024) with a focus on Enterprise Identity Governance, System Hardening, and Network Defense. This portfolio documents hands-on implementation of security controls across Cloud (Entra ID), Linux, and Networking environments.
 
 - **Certification Status:** ISC2 Certified in Cybersecurity (CC) — **Candidate (Exam Scheduled)**.
+- **Assessment Performance:** Scored **98/100** on the final preparatory evaluation in **42 minutes**.
 - **Technical Certifications:** Cisco Networking Basics, TESDA CSS NCII.
 - **Experience:** 5+ years of technical engagement with Cryptocurrency technologies (Hashing, Encryption, Private Key Management).
-- **Core Focus:** Principle of Least Privilege (PoLP), Zero Trust Architecture, and Attack Surface Reduction.
 
 ---
 
@@ -46,13 +46,13 @@ Graduate (2024) with a focus on Enterprise Identity Governance, System Hardening
 ## 📜 Professional Certifications & Education
 
 - **ISC2 Certified in Cybersecurity (CC) — Candidate**
-  - Status: Completed all 5 study domains; Exam scheduled pending document clearance.
+  - Status: Completed all 5 study domains.
+  - Performance: Achieved a **98% score** on the final assessment, completing the 120-minute exam in **42 minutes**.
 - **Cisco Networking Basics**
   - Foundational networking, routing, and switching protocols.
 - **Computer Systems Servicing (CSS) NCII (TESDA)**
   - Government-regulated technical qualification in hardware, software, and networking systems.
 - **Secondary Education Graduate (2024)**
-  - Completed formal education with specialized technical focus.
 
 ---
 
