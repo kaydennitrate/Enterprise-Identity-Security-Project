@@ -18,3 +18,5 @@ Verified the background synchronization process by auditing the Members tab of t
 ## 2.3 Evidence
 - Outcome:
 Automated membership population verified; administrative overhead for access management reduced to zero.
+
+Note: Due to licensing constraints in the lab environment, membership was manually assigned to simulate the ABAC workflow, and MFA was enforced via per-user security defaults.
